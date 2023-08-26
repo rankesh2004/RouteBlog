@@ -1,0 +1,15 @@
+.blog-detail {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: 'Roboto';
+}
+.title {
+  color: #12022f;
+}
+.date {
+  color: #9aa5b1;
+}
+.description {
+  color: #9aa5b1;
+}
